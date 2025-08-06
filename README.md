@@ -55,7 +55,7 @@ These were taken from the terminal during deployment using `gcloud` CLI.
 ![Page_01](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/Page_01.jpg)
 
 #### ⚠️ Group Creation Error (naming)
-![error_00](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/error_00.jpg)
+![Error_00](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/Error_00.jpg)
 
 ---
 

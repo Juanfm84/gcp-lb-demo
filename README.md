@@ -17,7 +17,79 @@ This project was created in Google Cloud Platform using Cloud Shell and Terrafor
 
 ### Screenshots
 
-- Add screenshots here (you can upload them and link later)
+## Screenshots
+
+---
+
+## 📸 Screenshots
+
+### 🖥️ CLI Output
+
+#### Final Apply Output
+![final_apply](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/Final_apply.jpg)
+
+#### Initial Page Load
+![Page_00](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/Page_00.jpg)
+
+#### Second Page Scroll
+![Page_01](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/Page_01.jpg)
+
+#### Error on Group Creation
+![error_00](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/Error_00.jpg)
+
+---
+
+### 🧭 GCP Console UI
+
+---
+
+## 📸 Screenshots
+
+### 🖥️ CLI Output
+
+These were taken from the terminal during deployment using `gcloud` CLI.
+
+#### ✅ Final Apply Output
+![final_apply](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/final_apply.png)
+
+#### 📄 Initial Output Page
+![Page_00](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/Page_00.png)
+
+#### 📄 Continued Output Page
+![Page_01](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/Page_01.png)
+
+#### ⚠️ Group Creation Error (naming)
+![error_00](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/error_00.png)
+
+---
+
+### 🌐 GCP Console (GUI Views)
+
+Captured from the GCP web console during and after deployment.
+
+#### 📊 CPU Monitoring
+![Gui_cpu_00](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/Gui_cpu_00.jpg)
+
+#### 🧩 Instance Group Details
+![Gui_Group_00](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/Gui_Group_00.jpg)
+
+#### 🌐 Load Balancer Overview
+![Gui_LoadBalancer_00](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/Gui_LoadBalancer_00.jpg)
+
+---
+
+### 🌍 Load Balancer Test (Browser)
+
+Captured in Chrome to show round-robin switching between the two instances.
+
+#### 🔁 First Load (Instance A)
+![LoadBalancer_00](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/LoadBalancer_00.jpg)
+
+#### 🔁 Second Load (Instance B)
+![LoadBalancer_01](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/LoadBalancer_01.jpg)
+
+
+
 
 ---
 

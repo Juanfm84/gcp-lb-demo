@@ -39,10 +39,6 @@ This project was created in Google Cloud Platform using Cloud Shell and Terrafor
 
 ---
 
-### 🧭 GCP Console UI
-
----
-
 ## 📸 Screenshots
 
 ### 🖥️ CLI Output
@@ -50,7 +46,7 @@ This project was created in Google Cloud Platform using Cloud Shell and Terrafor
 These were taken from the terminal during deployment using `gcloud` CLI.
 
 #### ✅ Final Apply Output
-![final_apply](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/final_apply.jpg)
+![final_apply](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/Final_apply.jpg)
 
 #### 📄 Initial Output Page
 ![Page_00](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/Page_00.jpg)
@@ -68,7 +64,7 @@ These were taken from the terminal during deployment using `gcloud` CLI.
 Captured from the GCP web console during and after deployment.
 
 #### 📊 CPU Monitoring
-![Gui_cpu_00](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/Gui_cpu_00.jpg)
+![Gui_cpu_00](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/Gui_Cpu_00.jpg)
 
 #### 🧩 Instance Group Details
 ![Gui_Group_00](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/Gui_Group_00.jpg)

@@ -35,7 +35,7 @@ This project was created in Google Cloud Platform using Cloud Shell and Terrafor
 ![Page_01](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/Page_01.jpg)
 
 #### Error on Group Creation
-![error_00](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/Error_00.jpg)
+![error_00](https://github.com/Juanfm84/gcp-lb-demo/blob/main/screenshots/Error_00.jpg)
 
 ---
 
@@ -79,10 +79,10 @@ Captured from the GCP web console during and after deployment.
 Captured in Chrome to show round-robin switching between the two instances.
 
 #### 🔁 First Load (Instance A)
-![LoadBalancer_00](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/LoadBalancer_00.jpg)
+![LoadBalancer_00](https://github.com/Juanfm84/gcp-lb-demo/blob/main/screenshots/Loadbalancer_00.jpg)
 
 #### 🔁 Second Load (Instance B)
-![LoadBalancer_01](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/LoadBalancer_01.jpg)
+![LoadBalancer_01](https://github.com/Juanfm84/gcp-lb-demo/blob/main/screenshots/Loadbalancer_01.jpg)
 
 
 

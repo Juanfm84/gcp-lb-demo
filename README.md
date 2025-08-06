@@ -50,16 +50,16 @@ This project was created in Google Cloud Platform using Cloud Shell and Terrafor
 These were taken from the terminal during deployment using `gcloud` CLI.
 
 #### ✅ Final Apply Output
-![final_apply](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/final_apply.png)
+![final_apply](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/final_apply.jpg)
 
 #### 📄 Initial Output Page
-![Page_00](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/Page_00.png)
+![Page_00](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/Page_00.jpg)
 
 #### 📄 Continued Output Page
-![Page_01](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/Page_01.png)
+![Page_01](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/Page_01.jpg)
 
 #### ⚠️ Group Creation Error (naming)
-![error_00](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/error_00.png)
+![error_00](https://raw.githubusercontent.com/Juanfm84/gcp-lb-demo/main/screenshots/error_00.jpg)
 
 ---
 
